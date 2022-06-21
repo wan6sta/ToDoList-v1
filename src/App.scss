@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Fascinate', cursive;
+  padding: 20px 0;
+
+  background-color: #231F20;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
